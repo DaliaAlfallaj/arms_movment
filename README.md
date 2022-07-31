@@ -11,4 +11,7 @@
 
 # Notes:
 
-#### 1- I don't have the serial device so theres no output for responding.
+#### - Please make sure that you use google chrome and the browser language is set to Arabic.
+#### -  Install [Arduino IDE](https://www.arduino.cc/en/software)
+#### -  The serial device is not available so there is no output of responding.
+
