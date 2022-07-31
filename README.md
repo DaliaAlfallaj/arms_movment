@@ -13,7 +13,7 @@
 
 #### - Please make sure that you use google chrome and the browser language is set to Arabic.
 #### -  Install [Arduino IDE](https://www.arduino.cc/en/software)
-#### -  The serial device is not available so there is no output of responding.
+- ####   The serial device is not available so there is no output of responding.
 
 
 
